@@ -1,0 +1,20 @@
+c:\users\tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\bin\Debug\Assignment1_PTTKGT.exe.config
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.csproj.ResolveComReference.cache
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.csprojResolveAssemblyReference.cache
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.Form1.resources
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.Properties.Resources.resources
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.csproj.GenerateResource.Cache
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\bin\Debug\Assignment1_PTTKGT.exe
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\bin\Debug\Assignment1_PTTKGT.pdb
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.exe
+C:\Users\Tung\documents\visual studio 2012\Projects\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.pdb
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\bin\Debug\Assignment1_PTTKGT.exe.config
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.csproj.ResolveComReference.cache
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.exe
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.pdb
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\bin\Debug\Assignment1_PTTKGT.exe
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\bin\Debug\Assignment1_PTTKGT.pdb
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.csprojResolveAssemblyReference.cache
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.Form1.resources
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.Properties.Resources.resources
+E:\Study\Phan tich thiet ke giai thuat\Assignment1_PTTKGT\Assignment1_PTTKGT\obj\Debug\Assignment1_PTTKGT.csproj.GenerateResource.Cache
